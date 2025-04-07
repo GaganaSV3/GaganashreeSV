@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML,Java,CSS,Django**
+- 💬 Ask me about **HTML,Java,CSS,Django,Javascript**
 
 - 📫 How to reach me **gaganasv3@gmail.com**
 
